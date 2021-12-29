@@ -13,6 +13,5 @@ projects
 
 lerna-debug.log
 npm-debug.log
-/packages/*/lib
 /packages/*/node_modules
 .idea
