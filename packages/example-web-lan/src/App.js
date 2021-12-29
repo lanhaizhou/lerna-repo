@@ -1,4 +1,4 @@
-import uiCommon from "ui-common"
+import uiCommon from "ui-common-lan"
 
 import logo from "./logo.svg"
 import "./App.css"

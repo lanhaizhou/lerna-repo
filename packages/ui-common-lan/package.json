@@ -1,5 +1,5 @@
 {
-  "name": "ui-common",
+  "name": "ui-common-lan",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "lanhaizhou <lanhaizhouzhou@foxmail.com>",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "4b8874af99b733ae597b5eb2f6c14e267694a2a6"
 }
